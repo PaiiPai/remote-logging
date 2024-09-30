@@ -4,14 +4,11 @@
   "description": "This is mock server for remomte logging",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "paipai",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.7"
   }
 }
