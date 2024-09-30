@@ -1,0 +1,17 @@
+{
+  "name": "node-express-server",
+  "version": "1.0.0",
+  "description": "This is mock server for remomte logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "paipai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
